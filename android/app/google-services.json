@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115438837217",
+    "firebase_url": "https://flutter-6d7f9.firebaseio.com",
+    "project_id": "flutter-6d7f9",
+    "storage_bucket": "flutter-6d7f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115438837217:android:4fe3bcf5dbe5b86c6486a0",
+        "android_client_info": {
+          "package_name": "com.brix.ViajesFlutterAvanzado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115438837217-dav5gdscmfttfn06i4ctg4ljm5gp458u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brix.ViajesFlutterAvanzado",
+            "certificate_hash": "038ecb8d5524cb79995246f0465a7da95183eba9"
+          }
+        },
+        {
+          "client_id": "115438837217-hubgi12k8ei45e4cd6umaggifjv1vnut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzPJVgXKDMWvbs9TWJXMflhFIFjThd_Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115438837217-hubgi12k8ei45e4cd6umaggifjv1vnut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
